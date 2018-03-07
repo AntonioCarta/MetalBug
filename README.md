@@ -2,7 +2,7 @@
 
 My first game made with the LÖVE2D framework.
 
-To run the game on GNU/Linux:
+To run the game on Linux:
 
 1. Place the code inside a folder e.g MetalBug
 2. Run
@@ -35,7 +35,7 @@ To play an editor stage.
 
 ## Building an executable for Microsoft Windows
 
-To build an executable from GNU/Linux, run
+To build an executable from Linux, run
     exeforwin.sh
 inside the game folder.
 
